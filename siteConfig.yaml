@@ -16,7 +16,7 @@ toc:
 login:
   label: Sign in
   menu:
-    - label: Sign out
+    - label: Log out
       logout: true
 oasDefinitions:
   petstore: ./openapi/petstore.yaml
