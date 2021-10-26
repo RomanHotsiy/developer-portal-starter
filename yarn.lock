@@ -11647,6 +11647,10 @@ postcss@^8.2.8:
     nanoid "^3.1.22"
     source-map "^0.6.1"
 
+"postgres-date@file:./postgres-date-1.0.7.tgz":
+  version "1.0.7"
+  resolved "file:./postgres-date-1.0.7.tgz#f53208c4fcae44418b8331f91ac4f4d78b586a09"
+
 prebuild-install@^6.0.1:
   version "6.1.1"
   resolved "https://registry.yarnpkg.com/prebuild-install/-/prebuild-install-6.1.1.tgz#6754fa6c0d55eced7f9e14408ff9e4cba6f097b4"
