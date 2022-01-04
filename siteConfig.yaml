@@ -52,7 +52,7 @@ footer:
           href: 'https://redoc.ly/privacy-notice/'
         - label: Cookie Notice
           href: 'https://redoc.ly/cookie-notice/'
-    - group:
+    - group: Test
       items:
         - label: FAQ
           page: https://redoc.ly 
