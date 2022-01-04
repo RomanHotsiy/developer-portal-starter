@@ -55,6 +55,6 @@ footer:
     - group: Support
       items:
         - label: FAQ
-          page: faq.md
+          page: https://redoc.ly 
         - label: Contact us
           page: contact.mdx
