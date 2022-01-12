@@ -1,3 +1,0 @@
-roles:
-  authenticated-user:
-    permissions: ['read:private']
