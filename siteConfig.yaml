@@ -47,14 +47,14 @@ footer:
     - group: Legal
       items:
         - label: Terms of Use
-          href: 'https://redoc.ly/subscription-agreement/'
+          href: contact.mdx
         - label: Privacy Notice
           href: 'https://redoc.ly/privacy-notice/'
         - label: Cookie Notice
           href: 'https://redoc.ly/cookie-notice/'
-    - group: Support
+    - group: Test
       items:
         - label: FAQ
-          page: faq.md
+          page: https://redoc.ly 
         - label: Contact us
           page: contact.mdx
